@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=React+JS+%7C+Node+JS+%7C+Machine+Learning+%7C+DSA+Lover;Open+Source+Contributor;Always+learning+something+new+💡" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek112005&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -81,6 +78,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek112005&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ### 📬 Let's Connect
 
