@@ -1,55 +1,56 @@
-<h1 align="center">Hi 👋, I'm Abhishek Pothanagari!</h1>
-<h3 align="center">A passionate developer, coder, and designer from India 🇮🇳</h3>
+<!-- Header Banner -->
+<img src="https://i.imgur.com/VrU5FqF.png" width="100%" />
+
+<h1 align="center">Hi 👋, I'm Abhishek Pothanagari</h1>
+<h3 align="center">A passionate coder & aspiring full-stack developer</h3>
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=React+JS+%7C+Node+JS+%7C+Machine+Learning+%7C+DSA+Lover;Open+Source+Contributor;Always+learning+something+new+💡" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek112005&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🔗 Coding Profiles
 
-- 🎓 Pre-Final year CSE undergrad
-- 👨‍💻 Passionate about solving DSA problems & building full-stack web apps
-- 🎨 UI/UX enthusiast – love designing with Canva & Figma
-- ⚡ Fun Fact: I love understanding how things work behind the scenes!
+<p align="center">
+  <a href="https://leetcode.com/u/abhishek_pothanagari/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/abhishekpotha">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/abhishekpothanagari">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 Connect with Me
 
-#### 💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
-
-#### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-#### ⚙️ Backend & Database  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-#### 🎨 Design Tools  
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/abhishek112005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abhishekpothanagari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -57,38 +58,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek112005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek112005&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112005&theme=tokyonight" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112005&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧠 Coding Platform Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/abhishek_pothanagari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/abhishekpothanagari" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/abhishekpotha" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-pothanagari-ba59b5291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abhishekpothanagari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek112005&layout=compact&theme=tokyonight" width="40%"/>
 </p>
