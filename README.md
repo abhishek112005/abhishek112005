@@ -31,10 +31,6 @@
 }
 ```
 
-> 🔭 **Now:** Building ML models & full-stack apps end-to-end  
-> 🌱 **Next:** MLOps, System Design & Cloud deployment  
-> 🧠 **Grinding:** DSA on LeetCode & Codeforces daily  
-> ⚡ **Debug style:** `console.log` and `print()` gang 😄
 
 ---
 
@@ -147,45 +143,43 @@
 
 ## 🚀 Featured Projects
 
-> Replace `REPO_NAME` and descriptions with your actual projects.
-
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Project One</h3>
+      <h3 align="center">🤖 RAG-OS</h3>
       <p align="center">
-        <a href="https://github.com/abhishek112005/REPO_NAME_1">
+        <a href="https://github.com/abhishek112005/RAG-OS">
           <img src="https://img.shields.io/badge/Source_Code-302b63?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         &nbsp;
-        <a href="#">
+        <a href="https://rag-os.vercel.app/app">
           <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Describe the problem this solves and what impact it has.</p>
+      <p align="center">Production-ready RAG SaaS scaffold — document parsing, semantic search, and AI-powered answer generation with citations. Modular, multi-modal, domain-adaptable.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Project Two</h3>
+      <h3 align="center">🎯 Seat Radar</h3>
       <p align="center">
-        <a href="https://github.com/abhishek112005/REPO_NAME_2">
+        <a href="https://github.com/abhishek112005/seat-radar">
           <img src="https://img.shields.io/badge/Source_Code-302b63?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        &nbsp;
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
       </p>
-      <p align="center">Describe the problem this solves and what impact it has.</p>
+      <p align="center">BookMyShow real-time seat monitor — detects booking openings, tracks exact seats & sections, and pushes instant SMS/WhatsApp/voice alerts via Twilio. Runs as a background daemon with a web dashboard.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -211,7 +205,7 @@
 </a>
 
 <br/><br/>
-<i>"Treating tech as an enabler to solve problems!"</i>
+<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 
 </div>
 
