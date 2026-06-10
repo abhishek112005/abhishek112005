@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ════════════════════ HEADER ════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Abhishek%20Pothanagari&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20UI%2FUX%20Lover&descAlignY=62&descAlign=50&descColor=c3b1e1&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Abhishek%20Pothanagari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Data%20Engineer&descAlignY=62&descAlign=50&descColor=c3b1e1&descSize=17"/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/🟢%20Available%20for%20Internships-302b63?style=flat-square&logoColor=white" />
+<!-- Status row -->
+<img src="https://img.shields.io/badge/🟢_Available_for_Internships-302b63?style=flat-square" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=abhishek112005&label=Profile+Views&color=302b63&style=flat-square" />
 &nbsp;
@@ -14,11 +14,7 @@
 
 </div>
 
-<br/>
-
-<!-- ════════════════════ WHOAMI ════════════════════ -->
-
-<img align="right" alt="Coding" width="340" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
 ## `$ whoami`
 
@@ -27,51 +23,80 @@
   "name"      : "Abhishek Pothanagari",
   "location"  : "India 🇮🇳",
   "degree"    : "B.Tech CSE — Pre-Final Year",
-  "role"      : "Full Stack Developer",
-  "stack"     : ["React", "Node.js", "MongoDB", "Express"],
-  "interests" : ["DSA", "System Design", "UI/UX", "Open Source"],
+  "roles"     : ["ML Engineer", "Full-Stack Developer", "Data Engineer"],
+  "stack"     : ["Python", "TensorFlow", "React", "Node.js", "SQL"],
+  "interests" : ["AI/ML", "DSA", "System Design", "Open Source"],
   "available" : true,
-  "message"   : "Open to internships & collaborations 💼"
+  "seeking"   : "Internship Opportunities 💼"
 }
 ```
 
-> 🔭 **Now:** Shipping full-stack MERN apps & grinding DSA daily  
-> 🌱 **Next:** System Design patterns & Cloud deployment  
-> 🎨 **Craft:** Pixel-perfect UIs using Figma & Canva  
-> ⚡ **Debug style:** `console.log` gang, no shame 😄
-
-<br clear="right"/>
+> 🔭 **Now:** Building ML models & full-stack apps end-to-end  
+> 🌱 **Next:** MLOps, System Design & Cloud deployment  
+> 🧠 **Grinding:** DSA on LeetCode & Codeforces daily  
+> ⚡ **Debug style:** `console.log` and `print()` gang 😄
 
 ---
 
-<!-- ════════════════════ SECTION HEADER: TECH ════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header"/>
+## 🧩 What I Build
 
-## 🛠️ Tech Stack
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineering-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+      <br/><br/>
+      <sub><b>Scikit-learn · Pandas · NumPy</b></sub><br/>
+      <sub>Jupyter · Data Visualization · NLP</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/Full--Stack%20(MERN)-302b63?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
+      <br/><br/>
+      <sub><b>Firebase · REST APIs · JWT</b></sub><br/>
+      <sub>HTML · CSS · JavaScript</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/Data%20Engineering-24243e?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+      <br/><br/>
+      <sub><b>SQL · ETL Pipelines · Statistics</b></sub><br/>
+      <sub>Feature Engineering · Data Wrangling</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center">
 
-**⚡ Languages**
+**Languages & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark)](https://skillicons.dev)
-
-**🎨 Frontend**
-
-[![Skills](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
-
-**🔩 Backend & Database**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark)](https://skillicons.dev)
-
-**🧰 Design & Tools**
-
-[![Skills](https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>Languages</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <sub><b>Dev Tools</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-
-<!-- ════════════════════ GITHUB STATS ════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -86,8 +111,6 @@
 
 ---
 
-<!-- ════════════════════ ACTIVITY GRAPH ════════════════════ -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -96,39 +119,41 @@
 
 ---
 
-<!-- ════════════════════ COMPETITIVE PROGRAMMING ════════════════════ -->
-
 ## 🏅 Competitive Programming
 
 <div align="center">
-
-<a href="https://leetcode.com/u/abhishek_pothanagari/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/abhishekpothanagari" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/abhishekpotha" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://leetcode.com/u/abhishek_pothanagari/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://codeforces.com/profile/abhishekpothanagari" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.codechef.com/users/abhishekpotha" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-<!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
-
 ## 🚀 Featured Projects
 
-> Replace the repo names below with your actual project repositories.
+> Replace `REPO_NAME` and descriptions with your actual projects.
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔖 Project One</h3>
+      <h3 align="center">📌 Project One</h3>
       <p align="center">
         <a href="https://github.com/abhishek112005/REPO_NAME_1">
           <img src="https://img.shields.io/badge/Source_Code-302b63?style=for-the-badge&logo=github&logoColor=white"/>
@@ -138,15 +163,15 @@
           <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Short description of what this project does and the problem it solves.</p>
+      <p align="center">Describe the problem this solves and what impact it has.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔖 Project Two</h3>
+      <h3 align="center">📌 Project Two</h3>
       <p align="center">
         <a href="https://github.com/abhishek112005/REPO_NAME_2">
           <img src="https://img.shields.io/badge/Source_Code-302b63?style=for-the-badge&logo=github&logoColor=white"/>
@@ -156,11 +181,11 @@
           <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Short description of what this project does and the problem it solves.</p>
+      <p align="center">Describe the problem this solves and what impact it has.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -168,8 +193,6 @@
 </div>
 
 ---
-
-<!-- ════════════════════ CONNECT ════════════════════ -->
 
 ## 🤝 Let's Connect
 
@@ -188,8 +211,7 @@
 </a>
 
 <br/><br/>
-
-<i>"The best way to predict the future is to build it." — Alan Kay</i>
+<i>"Treating tech as an enabler to solve problems!"</i>
 
 </div>
 
