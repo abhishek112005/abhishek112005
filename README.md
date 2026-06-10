@@ -205,7 +205,7 @@
 </a>
 
 <br/><br/>
-<i>"TTreating tech as an enabler!"</i>
+<i>"Treating tech as an enabler!"</i>
 
 </div>
 
