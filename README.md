@@ -205,7 +205,7 @@
 </a>
 
 <br/><br/>
-<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+<i>"TTreating tech as an enabler!"</i>
 
 </div>
 
