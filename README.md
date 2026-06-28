@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ════════════════════ HEADER ════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Abhishek%20Pothanagari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Data%20Engineer&descAlignY=62&descAlign=50&descColor=c3b1e1&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abhishek%20Pothanagari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Data%20Engineer&descAlignY=57&descAlign=50&descColor=c3b1e1&descSize=16"/>
 
-<!-- Status row -->
 <img src="https://img.shields.io/badge/🟢_Available_for_Internships-302b63?style=flat-square" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=abhishek112005&label=Profile+Views&color=302b63&style=flat-square" />
@@ -13,6 +11,19 @@
 </a>
 
 </div>
+
+---
+
+## About Me
+
+I am a pre-final year CSE student who enjoys building things at the intersection of **machine learning, full-stack engineering, and data systems**. I care about writing code that solves real problems — not just code that compiles.
+
+- 🤖 Building production-grade ML systems with PyTorch, TensorFlow & LangChain
+- 🌐 Shipping full-stack products end-to-end with the MERN stack
+- 📊 Working with SQL databases, ETL pipelines, and feature engineering
+- 🧠 Active competitive programmer — grinding DSA on LeetCode & Codeforces daily
+- 🔭 Currently exploring MLOps, System Design & Cloud deployment
+- ⚡ Fun Fact: I debug faster with music playing 🎧
 
 ---
 
@@ -31,117 +42,71 @@
 }
 ```
 
-
 ---
 
-## 🧩 What I Build
+## Technologies I Work With
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <br/>
-      <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Engineering-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-      <br/><br/>
-      <sub><b>Scikit-learn · Pandas · NumPy</b></sub><br/>
-      <sub>Jupyter · Data Visualization · NLP</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="33%">
-      <br/>
-      <img src="https://img.shields.io/badge/Full--Stack%20(MERN)-302b63?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
-      <br/><br/>
-      <sub><b>Firebase · REST APIs · JWT</b></sub><br/>
-      <sub>HTML · CSS · JavaScript</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="33%">
-      <br/>
-      <img src="https://img.shields.io/badge/Data%20Engineering-24243e?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
-      <br/><br/>
-      <sub><b>SQL · ETL Pipelines · Statistics</b></sub><br/>
-      <sub>Feature Engineering · Data Wrangling</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-</div>
 
-<div align="center">
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+
+**Full-Stack (MERN)**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark" />
+
+**Data Engineering**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
 
 **Languages & Tools**
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <sub><b>Languages</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      <sub><b>Dev Tools</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek112005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek112005&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek112005&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek112005&theme=github_dark" />
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112005&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek112005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek112005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117" />
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Coding Profiles
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek112005&theme=tokyo-night&hide_border=true&area=true&custom_title=Abhishek's%20GitHub%20Activity%20Graph" />
+
+<a href="https://leetcode.com/u/abhishek_pothanagari/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/abhishekpothanagari" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/abhishekpotha" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 🏅 Competitive Programming
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://leetcode.com/u/abhishek_pothanagari/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://codeforces.com/profile/abhishekpothanagari" target="_blank">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.codechef.com/users/abhishekpotha" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -188,7 +153,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## Where to Find Me
 
 <div align="center">
 
@@ -205,11 +170,10 @@
 </a>
 
 <br/><br/>
-<i>"Treating tech as an enabler!"</i>
+<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 
 </div>
 
 <br/>
 
-<!-- ════════════════════ FOOTER ════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
