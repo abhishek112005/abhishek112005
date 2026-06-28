@@ -22,8 +22,7 @@ I am a pre-final year CSE student who enjoys building things at the intersection
 - 🌐 Shipping full-stack products end-to-end with the MERN stack
 - 📊 Working with SQL databases, ETL pipelines, and feature engineering
 - 🧠 Active competitive programmer — grinding DSA on LeetCode & Codeforces daily
-- 🔭 Currently exploring MLOps, System Design & Cloud deployment
-- ⚡ Fun Fact: I debug faster with music playing 🎧
+- 🔭 Currently exploring RAG, AGENTIC AI
 
 ---
 
@@ -37,8 +36,7 @@ I am a pre-final year CSE student who enjoys building things at the intersection
   "roles"     : ["ML Engineer", "Full-Stack Developer", "Data Engineer"],
   "stack"     : ["Python", "TensorFlow", "React", "Node.js", "SQL"],
   "interests" : ["AI/ML", "DSA", "System Design", "Open Source"],
-  "available" : true,
-  "seeking"   : "Internship Opportunities 💼"
+  "available" : true
 }
 ```
 
