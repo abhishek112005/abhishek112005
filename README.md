@@ -25,7 +25,6 @@ I am a pre-final year CSE student who enjoys building things at the intersection
 - 📊 Working with SQL databases, ETL pipelines, and feature engineering
 - 🧠 Active competitive programmer — grinding DSA on LeetCode & Codeforces daily
 - 🔭 Currently exploring MLOps, System Design & Cloud deployment
-- ⚡ Fun Fact: I debug faster with music playing 🎧
 
 ---
 
