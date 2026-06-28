@@ -1,9 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abhishek%20Pothanagari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Data%20Engineer&descAlignY=57&descAlign=50&descColor=c3b1e1&descSize=16"/>
+# Abhishek Pothanagari
 
-<img src="https://img.shields.io/badge/🟢_Available_for_Internships-302b63?style=flat-square" />
-&nbsp;
+**ML Engineer • Full-Stack Developer • Data Engineer**
+
+I build intelligent systems, full-stack products, and data pipelines that solve real problems.
+
 <img src="https://komarev.com/ghpvc/?username=abhishek112005&label=Profile+Views&color=302b63&style=flat-square" />
 &nbsp;
 <a href="https://github.com/abhishek112005?tab=followers">
@@ -22,7 +24,8 @@ I am a pre-final year CSE student who enjoys building things at the intersection
 - 🌐 Shipping full-stack products end-to-end with the MERN stack
 - 📊 Working with SQL databases, ETL pipelines, and feature engineering
 - 🧠 Active competitive programmer — grinding DSA on LeetCode & Codeforces daily
-- 🔭 Currently exploring RAG, AGENTIC AI
+- 🔭 Currently exploring MLOps, System Design & Cloud deployment
+- ⚡ Fun Fact: I debug faster with music playing 🎧
 
 ---
 
@@ -36,7 +39,8 @@ I am a pre-final year CSE student who enjoys building things at the intersection
   "roles"     : ["ML Engineer", "Full-Stack Developer", "Data Engineer"],
   "stack"     : ["Python", "TensorFlow", "React", "Node.js", "SQL"],
   "interests" : ["AI/ML", "DSA", "System Design", "Open Source"],
-  "available" : true
+  "available" : true,
+  "seeking"   : "Internship Opportunities 💼"
 }
 ```
 
