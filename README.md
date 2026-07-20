@@ -18,7 +18,7 @@ I build intelligent systems, full-stack products, and data pipelines that solve 
 
 ## About Me
 
-I am a pre-final year CSE student who enjoys building things at the intersection of **machine learning, full-stack engineering, and data systems**. I care about writing code that solves real problems — not just code that compiles.
+I am a Final year CSE student who enjoys building things at the intersection of **machine learning, full-stack engineering, and data systems**. I care about writing code that solves real problems — not just code that compiles.
 
 - 🤖 Building production-grade ML systems with PyTorch, TensorFlow & LangChain
 - 🌐 Shipping full-stack products end-to-end with the MERN stack
